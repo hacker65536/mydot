@@ -1,0 +1,1 @@
+roles/*/*/vars/*.yml diff=ansible-vault merge=binary grep=ansible-vault
